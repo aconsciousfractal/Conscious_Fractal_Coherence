@@ -23,7 +23,9 @@ Reproduce · Extend · Refute · Build
 
 They are literally the same three lines of pseudocode running on different manifolds.
 
-*In every scale, from quantum foam to galaxies, from neurons to markets, the universe seeks coherence—not perfection, but persistence through change. May this work serve those who search for patterns that endure, and may we all find our own resonance in the conscious fractal dance of existence.*
+*In every scale, from quantum foam to galaxies, from neurons to markets, the universe seeks coherence—not perfection, but persistence through change. May this work serve those who search for patterns that endure, and may we all find our own resonance in the conscious fractal dance of existence.* 
+
+Buy me a coffee $z1ran
 
 
 
