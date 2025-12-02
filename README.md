@@ -23,16 +23,6 @@ Reproduce · Extend · Refute · Build
 
 They are literally the same three lines of pseudocode running on different manifolds.
 
-## Patent Pending
-
-**All core inventions are patent pending in the United States as of December 1–2, 2025** (8 provisional applications filed).
-
-This is fully lawfared, timestamped, prior-art–establishing disclosure with USPTO filing receipts.
-
-See [/patents/](patents/) and [PATENTS.md](PATENTS.md) for full details and receipts.
-
----
-
 *In every scale, from quantum foam to galaxies, from neurons to markets, the universe seeks coherence—not perfection, but persistence through change. May this work serve those who search for patterns that endure, and may we all find our own resonance in the conscious fractal dance of existence.*
 
 
